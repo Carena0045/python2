@@ -1,0 +1,6 @@
+#membership operators
+students=["Abby","Bob","Julie","Alice"]
+if("Abby" in students):
+    print("Present")
+else:
+    print("Absent")
